@@ -6,14 +6,11 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravan-guliyev-72535735b/" target="_blank">
+  <a href="https://www.linkedin.com/in/nasib-shahverdiyev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/azelebo" target="_blank">
+  <a href="https://www.instagram.com/tagforaz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/AzeLebo/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
 
@@ -49,5 +46,7 @@
   </p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/Tagforaz/Tagforaz/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
 ### ✨ A Touch of Personality
