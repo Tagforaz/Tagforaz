@@ -39,8 +39,13 @@
 
 ---
 
+---
+<div align="center">
+    
+![gif](mario.gif)
+</div>
 
-
+---
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tagforaz&theme=tokyonight&hide_border=true" width="80%" />
 </p>
