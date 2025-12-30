@@ -47,4 +47,4 @@
   </p>
 
 
-<img src="https://raw.githubusercontent.com/Tagforaz/Tagforaz/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tagforaz/Tagforaz/github-contribution-grid-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
