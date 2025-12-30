@@ -42,11 +42,9 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Tagforaz/Tagforaz/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
-
-
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Tagforaz/Tagforaz?style=for-the-badge&label=Last%20Commit&color=blue" alt="Son Commit"/>
   </p>
 
 
+<img src="https://raw.githubusercontent.com/Tagforaz/Tagforaz/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
