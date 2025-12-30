@@ -42,7 +42,7 @@
 </p>
 
 
-![snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Tagforaz/Tagforaz/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
 
 <p align="center">
