@@ -46,5 +46,3 @@
   </p>
 
 
-
-### ✨ A Touch of Personality
