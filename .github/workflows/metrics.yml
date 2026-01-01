@@ -1,0 +1,23 @@
+name: GitHub Metrics
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: Tagforaz
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # əsas hissə
+          base: header, activity, repositories
+
+          # COMMİT & ACTIVITY
+          plugin_activity: yes
+          plugin_activity_limit: 0
+          plugin_activity_days: 365
+          plugin_activity_filter: all
