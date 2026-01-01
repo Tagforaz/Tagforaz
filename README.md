@@ -46,14 +46,7 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tagforaz&theme=tokyonight&hide_border=true" width="80%" />
-</p>
+### 📈 GitHub Stats
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Tagforaz/Tagforaz?style=for-the-badge&label=Last%20Commit&color=blue" alt="Son Commit"/>
-  </p>
-
-
-
+![GitHub Metrics](./github-metrics.svg)
