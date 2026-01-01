@@ -48,5 +48,5 @@
 ---
 ### 📈 GitHub Stats
 
-![profil göstəriciləri](./metrics.svg)
+
 ![GitHub Metrics](./github-metrics.svg)
