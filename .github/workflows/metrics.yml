@@ -1,8 +1,12 @@
 name: GitHub Metrics
+
 on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔴 VACİB
 
 jobs:
   metrics:
@@ -13,10 +17,13 @@ jobs:
           user: Tagforaz
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # 🔴 SVG adı
+          filename: github-metrics.svg
+
           # əsas hissə
           base: header, activity, repositories
 
-          # COMMİT & ACTIVITY
+          # commit & activity
           plugin_activity: yes
           plugin_activity_limit: 0
           plugin_activity_days: 365
